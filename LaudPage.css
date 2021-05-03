@@ -40,7 +40,9 @@
     padding:60px;
 }
 .star{
-    font-family: sans-serif;
+     font-family: sans-serif;
+    font-weight: 650;
+    font-size:20px;
 }
 .awards{
     text-align: left;
