@@ -1,0 +1,67 @@
+*{
+    font-family: sans-serif;
+}
+
+.home{
+    background-color: black;
+    color:lightgrey;
+    text-align: center;
+    font-weight: 400;
+    height:600px;
+}
+.TopList{
+    list-style-type: none;
+    display:flex;
+}
+.List{
+    margin:15px;
+    padding:10px;
+}
+.title{
+    padding:150px;
+}
+.title > h1{
+    font-size: 50px;
+    font-weight: 400;
+}
+.title > p {
+    font-size: 20px;
+}
+.button{
+    padding:10px;
+}
+.quotes{
+    background-color: black;
+    color:lightgrey;
+    margin-top:50px;
+}
+.quotes > h3{
+    text-align: center;
+    padding:60px;
+}
+.star{
+    font-family: sans-serif;
+}
+.awards{
+    text-align: left;
+}
+.last{
+    background-color: black;
+    color: white;
+    padding:30px;
+}
+.parent{
+    position: relative;
+}
+/* .child{
+    position:absolute;
+    top:90px;
+    left:150px;
+} */
+/* .authorpart{
+    padding:60px;
+} */
+/* .gchild{
+    margin-bottom:30px;
+} */
+
